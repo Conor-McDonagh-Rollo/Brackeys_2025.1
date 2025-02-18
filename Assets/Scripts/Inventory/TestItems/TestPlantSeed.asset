@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6d5d74e8e27b8e45891193b6d3918a1, type: 3}
+  m_Name: TestPlantSeed
+  m_EditorClassIdentifier: 
+  itemName: Test
+  icon: {fileID: 21300000, guid: a45066de4620f4148a2fd4409d8a0d8d, type: 3}
+  plantPrefab: {fileID: 8654555369681346650, guid: e426eed0eff877b44bb3e59dedbbb61d,
+    type: 3}
